@@ -1,0 +1,2202 @@
+<TradeBatch generated="2025-08-01">
+<TradeRecord>
+    <Date>2025-09-19</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>17104026</Value>
+    <Quantity unit="KG">9105</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-17</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>72481992</Value>
+    <Quantity unit="BBL">738852</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-02</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>6677713</Value>
+    <Quantity unit="BBL">458409</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-30</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>55280720</Value>
+    <Quantity unit="Units">744963</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-27</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>44589647</Value>
+    <Quantity unit="Units">181222</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-30</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>15208709</Value>
+    <Quantity unit="KG">256135</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-07</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>46568701</Value>
+    <Quantity unit="KG">233335</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-19</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>69444607</Value>
+    <Quantity unit="KG">204322</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-23</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>20655410</Value>
+    <Quantity unit="BBL">269402</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-12</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>85281857</Value>
+    <Quantity unit="KG">519119</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-18</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>43431444</Value>
+    <Quantity unit="KG">159290</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-05</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>80379016</Value>
+    <Quantity unit="KG">59900</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-02</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>6047559</Value>
+    <Quantity unit="KG">60653</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-19</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>78890494</Value>
+    <Quantity unit="Units">582242</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-03</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>64837847</Value>
+    <Quantity unit="BBL">526721</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-04</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>12318464</Value>
+    <Quantity unit="Units">530057</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-12</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>71339290</Value>
+    <Quantity unit="Units">549141</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-11</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>55864099</Value>
+    <Quantity unit="KG">813085</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-13</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>45250344</Value>
+    <Quantity unit="Units">100096</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-13</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>89122539</Value>
+    <Quantity unit="Units">951369</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-10</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>42638598</Value>
+    <Quantity unit="Units">688923</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-12</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>76017250</Value>
+    <Quantity unit="Units">395976</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-22</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>49563745</Value>
+    <Quantity unit="KG">20116</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-20</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>26770506</Value>
+    <Quantity unit="BBL">238547</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-10</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>73446804</Value>
+    <Quantity unit="Units">876686</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-03</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>51562485</Value>
+    <Quantity unit="BBL">162745</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-12</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>56144509</Value>
+    <Quantity unit="Units">382995</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-16</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>61254091</Value>
+    <Quantity unit="Units">246369</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-16</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>92040800</Value>
+    <Quantity unit="Units">994137</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-29</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>71794454</Value>
+    <Quantity unit="BBL">439997</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-13</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>87057593</Value>
+    <Quantity unit="KG">504935</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-05</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>22516757</Value>
+    <Quantity unit="KG">287042</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-02</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>61549373</Value>
+    <Quantity unit="KG">928601</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-02</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>51192261</Value>
+    <Quantity unit="KG">248231</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-06</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>14298711</Value>
+    <Quantity unit="Units">880940</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-11</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>39504300</Value>
+    <Quantity unit="KG">962959</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-14</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>1704803</Value>
+    <Quantity unit="BBL">950860</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-02</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>98607800</Value>
+    <Quantity unit="Units">639457</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-28</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>17354208</Value>
+    <Quantity unit="BBL">51068</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-27</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>68085942</Value>
+    <Quantity unit="Units">626726</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-02</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>58611469</Value>
+    <Quantity unit="Units">2640</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-23</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>90686286</Value>
+    <Quantity unit="Units">90772</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-24</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>6843091</Value>
+    <Quantity unit="KG">667549</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-24</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>47278607</Value>
+    <Quantity unit="Units">253838</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-12</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>6950635</Value>
+    <Quantity unit="Units">370412</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-22</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>65227366</Value>
+    <Quantity unit="BBL">663423</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-09</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>28057085</Value>
+    <Quantity unit="BBL">46934</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-03</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>64538641</Value>
+    <Quantity unit="BBL">266618</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-18</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>7416148</Value>
+    <Quantity unit="Units">908855</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-22</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>54690013</Value>
+    <Quantity unit="KG">780414</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-25</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>67776459</Value>
+    <Quantity unit="Units">386191</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-18</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>81859912</Value>
+    <Quantity unit="BBL">863287</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-04</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>45012664</Value>
+    <Quantity unit="KG">694024</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-20</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>60580374</Value>
+    <Quantity unit="KG">369623</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-03</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>86828117</Value>
+    <Quantity unit="BBL">830924</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-05</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>92188948</Value>
+    <Quantity unit="BBL">168758</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-10</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>10023909</Value>
+    <Quantity unit="Units">248459</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-24</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>21594121</Value>
+    <Quantity unit="KG">713048</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-24</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>19481124</Value>
+    <Quantity unit="KG">556178</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-26</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>4478029</Value>
+    <Quantity unit="BBL">772411</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-01</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>35935501</Value>
+    <Quantity unit="KG">739237</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-14</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>17460116</Value>
+    <Quantity unit="BBL">143321</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-29</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>43894344</Value>
+    <Quantity unit="KG">701280</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-15</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>96537400</Value>
+    <Quantity unit="Units">745031</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-10</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>27975128</Value>
+    <Quantity unit="BBL">831541</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-16</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>77809773</Value>
+    <Quantity unit="KG">387831</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-05</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>54440127</Value>
+    <Quantity unit="Units">752759</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-31</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>10898653</Value>
+    <Quantity unit="KG">132414</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-11</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>70438885</Value>
+    <Quantity unit="BBL">362249</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-19</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>68493234</Value>
+    <Quantity unit="BBL">955951</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-08</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>22738837</Value>
+    <Quantity unit="Units">339334</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-15</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>27347197</Value>
+    <Quantity unit="Units">666905</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-18</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>87031876</Value>
+    <Quantity unit="Units">177827</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-07</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>6529005</Value>
+    <Quantity unit="BBL">866322</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-06</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>56913331</Value>
+    <Quantity unit="Units">649133</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-02</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>33866956</Value>
+    <Quantity unit="Units">844776</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-26</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>9041391</Value>
+    <Quantity unit="KG">166759</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-27</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>82424562</Value>
+    <Quantity unit="KG">151647</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-15</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>50733063</Value>
+    <Quantity unit="Units">540995</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-07</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>36899440</Value>
+    <Quantity unit="BBL">472435</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-10</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>83594562</Value>
+    <Quantity unit="BBL">439446</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-11</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>67876068</Value>
+    <Quantity unit="KG">540728</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-01</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>53780072</Value>
+    <Quantity unit="KG">530996</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-16</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>38763008</Value>
+    <Quantity unit="Units">519934</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-11</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>2097552</Value>
+    <Quantity unit="BBL">889324</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-28</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>50115280</Value>
+    <Quantity unit="KG">48440</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-04</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>39735464</Value>
+    <Quantity unit="KG">78103</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-02</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>13976369</Value>
+    <Quantity unit="KG">414037</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-22</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>81861208</Value>
+    <Quantity unit="KG">534853</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-02</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>96776676</Value>
+    <Quantity unit="KG">350218</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-03</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>83284610</Value>
+    <Quantity unit="BBL">335002</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-26</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>69412668</Value>
+    <Quantity unit="KG">559198</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-15</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>50440148</Value>
+    <Quantity unit="Units">348329</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-08</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>64698420</Value>
+    <Quantity unit="Units">279428</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-19</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>65484744</Value>
+    <Quantity unit="Units">179794</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-10</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>33507072</Value>
+    <Quantity unit="Units">34104</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-14</Date>
+    <Reporter>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>2709</Code>
+      <Name>Crude oil</Name>
+    </Commodity>
+    <Currency>
+      <Code>CAD</Code>
+      <Name>Canadian Dollar</Name>
+      <FxRateToUSD>0.74</FxRateToUSD>
+    </Currency>
+    <Value>43103092</Value>
+    <Quantity unit="BBL">440122</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-08-27</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CA</ISO2>
+      <Name>Canada</Name>
+    </Partner>
+    <Commodity>
+      <Code>0808</Code>
+      <Name>Apples</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>83071195</Value>
+    <Quantity unit="KG">966236</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-17</Date>
+    <Reporter>
+      <ISO2>MX</ISO2>
+      <Name>Mexico</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Partner>
+    <Commodity>
+      <Code>1006</Code>
+      <Name>Rice</Name>
+    </Commodity>
+    <Currency>
+      <Code>MXN</Code>
+      <Name>Mexican Peso</Name>
+      <FxRateToUSD>0.058</FxRateToUSD>
+    </Currency>
+    <Value>28828932</Value>
+    <Quantity unit="KG">589132</Quantity>
+  </TradeRecord>
+<TradeRecord>
+    <Date>2025-09-12</Date>
+    <Reporter>
+      <ISO2>US</ISO2>
+      <Name>United States</Name>
+    </Reporter>
+    <Partner>
+      <ISO2>CN</ISO2>
+      <Name>China</Name>
+    </Partner>
+    <Commodity>
+      <Code>8703</Code>
+      <Name>Cars</Name>
+    </Commodity>
+    <Currency>
+      <Code>USD</Code>
+      <Name>US Dollar</Name>
+      <FxRateToUSD>1.0</FxRateToUSD>
+    </Currency>
+    <Value>62694994</Value>
+    <Quantity unit="Units">957431</Quantity>
+  </TradeRecord>
+</TradeBatch>
