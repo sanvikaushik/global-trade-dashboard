@@ -1,0 +1,16 @@
+2025-09-15 19:05:03.614 EDT [22611] LOG:  starting PostgreSQL 16.10 (Homebrew) on aarch64-apple-darwin24.4.0, compiled by Apple clang version 17.0.0 (clang-1700.0.13.3), 64-bit
+2025-09-15 19:05:03.615 EDT [22611] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-09-15 19:05:03.615 EDT [22611] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-09-15 19:05:03.615 EDT [22611] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-09-15 19:05:03.615 EDT [22611] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-09-15 19:05:03.615 EDT [22611] WARNING:  could not create listen socket for "localhost"
+2025-09-15 19:05:03.615 EDT [22611] FATAL:  could not create any TCP/IP sockets
+2025-09-15 19:05:03.616 EDT [22611] LOG:  database system is shut down
+2025-09-15 19:05:07.216 EDT [22644] LOG:  starting PostgreSQL 16.10 (Homebrew) on aarch64-apple-darwin24.4.0, compiled by Apple clang version 17.0.0 (clang-1700.0.13.3), 64-bit
+2025-09-15 19:05:07.217 EDT [22644] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-09-15 19:05:07.217 EDT [22644] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-09-15 19:05:07.217 EDT [22644] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-09-15 19:05:07.217 EDT [22644] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-09-15 19:05:07.217 EDT [22644] WARNING:  could not create listen socket for "localhost"
+2025-09-15 19:05:07.217 EDT [22644] FATAL:  could not create any TCP/IP sockets
+2025-09-15 19:05:07.218 EDT [22644] LOG:  database system is shut down
