@@ -4,7 +4,7 @@ from datetime import datetime
 import math, os, glob
 import hashlib
 from concurrent.futures import ProcessPoolExecutor
-from validate import validate_fact
+from src.validate import validate_fact
 
 import pandas as pd
 from lxml import etree
