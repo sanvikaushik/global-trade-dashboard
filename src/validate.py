@@ -4,7 +4,7 @@ from pandera import DataFrameSchema, Column, Check, DateTime
 from pandera.errors import SchemaErrors
 
 ISO2 = Check.str_matches(r"^[A-Z]{2}$")
-HS_CODE = Check.str_matches(r"^\d{4,8}$")               # HS 4–8 digit code
+HS_CODE = Check.str_matches(r"^\d{4,8}$")               # HS 4-8 digit code
 CURRENCY = Check.str_matches(r"^[A-Z]{3}$")             # ISO-4217 format
 NONNEG = Check.ge(0)
 POSITIVE = Check.gt(0)
