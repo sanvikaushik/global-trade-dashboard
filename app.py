@@ -28,7 +28,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-if "theme_name" not in st.session_state:
+if st.session_state.get("theme_name") not in THEMES:
     st.session_state.theme_name = "BLOOMBERG"
 
 
@@ -414,7 +414,7 @@ fact, source = load_fact()
 now = datetime.now(TZ)
 clock = now.strftime("%a %d %b %Y  %H:%M:%S %Z").upper()
 
-theme_name = st.session_state.theme_name
+theme_name = st.session_state.theme_name if st.session_state.get("theme_name") in THEMES else "BLOOMBERG"
 theme = THEMES[theme_name]
 st.markdown(inject_css(theme_name), unsafe_allow_html=True)
 

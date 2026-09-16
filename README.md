@@ -1,6 +1,10 @@
 # Global Trade Dashboard
 
-A lightweight Streamlit app and ETL toolkit for exploring bilateral trade records loaded into Postgres.
+Bloomberg-style terminal for global trade analytics. Color themes: Bloomberg, Amber, Midnight, Equity, Ice.
+
+![GT TRADE terminal](docs/gt-trade-terminal.png)
+
+The app loads Postgres when available, otherwise `data/processed/fact_trades.parquet`.
 
 ## Quick start
 1. Create and activate a Python 3.11+ virtual environment.
@@ -30,9 +34,11 @@ A lightweight Streamlit app and ETL toolkit for exploring bilateral trade record
    make app
    ```
 
+Or `streamlit run app.py`.
+
 ## Components
 - **ETL** (`src/etl_extract_transform.py`, `src/load_to_postgres.py`): Streams XML trade files, deduplicates on business keys, and loads fact rows into the `fact_trades` table.
-- **Dashboard** (`app.py`): Presents headline metrics, recent top trading partners, and a reporter/partner monthly trend chart powered by Postgres queries.
+- **Dashboard** (`app.py`): Bloomberg-style trade terminal with mnemonic filters, workspaces (MONITOR, FLOW, MATRIX, BLOTTER, QUALITY), and switchable color themes. Falls back to parquet when Postgres is unavailable.
 - **Utilities** (`src/utils.py`, `src/validate.py`, `src/measure_quality.py`): Shared helpers for stable IDs, schema validation, and quality checks.
 
 ## Make targets
